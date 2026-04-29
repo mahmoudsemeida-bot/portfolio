@@ -9,12 +9,12 @@
 const projects = [
     {
         id: 1,
-        title: "متجر إلكتروني متكامل",
-        description: "متجر إلكتروني حديث مع نظام دفع إلكتروني ولوحة تحكم لإدارة المنتجات والطلبات",
-        image: "images/projects/project1.jpg", // ضع اسم صورتك هنا
+        title: "مطعم بالغردقه",
+        description: "انشاء موقع مع نظام حجز متكامل للمطعم",
+        image: "https://res.cloudinary.com/dinbygyca/image/upload/q_auto/f_auto/v1777448479/about-image_ckq4ui.jpg", // ضع اسم صورتك هنا
         category: "ecommerce",
         technologies: ["HTML", "CSS", "JavaScript", "Node.js", "MongoDB"],
-        liveLink: "https://example-store.com",
+        liveLink: "https://mahmoudsemeida-bot.github.io/caribbean-bar/",
         githubLink: "https://mahmoudsemeida-bot.github.io/caribbean-bar/"
     },
     {
