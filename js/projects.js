@@ -10,7 +10,7 @@ const projects = [
     {
         id: 1,
         title: "مطعم بالغردقه",
-        description: "انشاء موقع مع نظام حجز متكامل للمطعم",
+        description: "انشاء موقع مع نظام حجز متكامل للمطعم متعدد اللغات",
         image: "https://res.cloudinary.com/dinbygyca/image/upload/q_auto/f_auto/v1777448479/about-image_ckq4ui.jpg", // ضع اسم صورتك هنا
         category: "restaurant",
         technologies: ["HTML", "CSS", "JavaScript", "Node.js", "MongoDB"],
