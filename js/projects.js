@@ -12,7 +12,7 @@ const projects = [
         title: "مطعم بالغردقه",
         description: "انشاء موقع مع نظام حجز متكامل للمطعم",
         image: "https://res.cloudinary.com/dinbygyca/image/upload/q_auto/f_auto/v1777448479/about-image_ckq4ui.jpg", // ضع اسم صورتك هنا
-        category: "ecommerce",
+        category: "restaurant",
         technologies: ["HTML", "CSS", "JavaScript", "Node.js", "MongoDB"],
         liveLink: "https://mahmoudsemeida-bot.github.io/caribbean-bar/",
         githubLink: "https://mahmoudsemeida-bot.github.io/caribbean-bar/"
