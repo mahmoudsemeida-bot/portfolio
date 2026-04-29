@@ -15,7 +15,7 @@ const projects = [
         category: "ecommerce",
         technologies: ["HTML", "CSS", "JavaScript", "Node.js", "MongoDB"],
         liveLink: "https://example-store.com",
-        githubLink: "https://github.com/mahmoudgamal/store"
+        githubLink: "https://mahmoudsemeida-bot.github.io/caribbean-bar/"
     },
     {
         id: 2,
