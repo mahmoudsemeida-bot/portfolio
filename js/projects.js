@@ -19,23 +19,23 @@ const projects = [
     },
     {
         id: 2,
-        title: "لوحة تحكم Dashboard",
-        description: "لوحة تحكم تفاعلية لعرض البيانات والإحصائيات مع رسوم بيانية متحركة",
-        image: "images/projects/project2.jpg",
+        title:"AI Voice Translator",
+        description: " حول صوت اي فيديوالى اي لغه في العالم",
+        image: "https://res.cloudinary.com/dinbygyca/image/upload/q_auto/f_auto/v1777574035/%D8%AA%D9%86%D8%B2%D9%8A%D9%84_1_toghaj.jpg",
         category: "frontend",
         technologies: ["React", "Chart.js", "Tailwind CSS"],
-        liveLink: "https://example-dashboard.com",
-        githubLink: "https://github.com/mahmoudgamal/dashboard"
+        liveLink: "https://mahmoudsemeida-bot.github.io/video-translate/",
+        githubLink: "https://mahmoudsemeida-bot.github.io/video-translate/"
     },
     {
         id: 3,
-        title: "تطبيق إدارة المهام",
-        description: "تطبيق ويب لإدارة المهام اليومية مع إمكانية التسجيل وتسجيل الدخول",
-        image: "images/projects/project3.jpg",
+        title: "مطعم ومشويات ابن البلد",
+        description: "مطعم ابن البلد",
+        image: "https://res.cloudinary.com/dinbygyca/image/upload/q_auto/f_auto/v1777574257/%D8%B5%D9%86%D9%8A%D8%A9_%D9%84%D8%AD%D9%85_%D9%85%D9%86%D8%AF%D9%8A_202604141302_zlylhk_wfdxxi.jpg",
         category: "fullstack",
         technologies: ["HTML", "CSS", "JavaScript", "Firebase"],
-        liveLink: "https://example-todo.com",
-        githubLink: "https://github.com/mahmoudgamal/todo-app"
+        liveLink: "https://mahmoudsemeida-bot.github.io/ebn-elbald/",
+        githubLink: "https://mahmoudsemeida-bot.github.io/ebn-elbald/"
     }
     // 👇 أضف مشاريع جديدة هنا بنفس الطريقة 👇
 ];
