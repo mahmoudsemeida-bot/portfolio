@@ -38,15 +38,6 @@ const projects = [
         githubLink: "https://mahmoudsemeida-bot.github.io/ebn-elbald/"
     }
     // 👇 أضف مشاريع جديدة هنا بنفس الطريقة 👇
-    {
-        id: 4,
-            title:"مطعم solo",
-            description: "Experience Fine Dining",
-            image: "",
-            technologies: ["HTML", "CSS", "JavaScript"],
-            livelink: "https://mahmoudsemeida-bot.github.io/solo-restaurant/"
-        
-    }
 
 ];
 
